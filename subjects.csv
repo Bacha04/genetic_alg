@@ -1,0 +1,10 @@
+id;name;groupID;numLectures;numPracticals;requiresSubgroups;weekType
+S1;Decision Theory;TTP-41;2;1;yes;both
+S2;Mobile Software Development;MI-41;3;2;yes;both
+S3;Intelligent Systems;TK-41;2;2;no;both
+S4;Decision Theory;TTP-42;2;2;yes;both
+S5;Statistical Modeling;MI-42;1;2;no;both
+S6;Decision Theory;MI-41;2;1;yes;both
+S7;Decision Theory;MI-42;2;1;yes;both
+S8;Intelligent Systems;TTP-41;2;1;no;both
+S9;Intelligent Systems;MI-42;2;1;no;both

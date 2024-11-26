@@ -1,0 +1,15 @@
+lecturerID;lecturerName;subjectsCanTeach;typesCanTeach;maxHoursPerWeek
+L1;Ivanov I.I.;S1;Lecture;80
+L2;Petrenko P.P.;S2;Practice;72
+L3;Sydorenko S.S.;S3;Lecture;80
+L4;Tkachenko O.M.;S4;Practice;60
+L5;Mashchenko S.O.;S1;Practice;60
+L6;Zinko T.P.;S3;Practice;80
+L7;Svistunov A.O.;S2;Practice;80
+L8;Shevchenko V.P;S5;Lecture;60
+L9;Kaspur O,V;S5;Practice;40
+L10;Tkachenko O.M.;S4;Lecture;60
+L11;Taranuha;S6;Lecture;60
+L12;Taranuha;S6;Practice;80
+L13;Omelchuk;S8;Lecture;60
+L14;Omelchuk;S8;Practice;80
